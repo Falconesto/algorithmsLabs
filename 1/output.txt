@@ -1,0 +1,11 @@
+KvMng BLYT'
+
+public:
+znach(){
+...
+...
+int y=Cho-to(x);
+}
+
+private:
+Cho-to

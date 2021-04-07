@@ -1,0 +1,19 @@
+temp(int x, int k){
+
+}
+
+temp(float x, int k){
+
+}
+
+
+
+
+main{
+
+x
+k
+temp(x, k);
+
+
+}
